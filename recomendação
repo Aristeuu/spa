@@ -1,0 +1,6 @@
+
+--composer install
+
+--composer require inertiajs/inertia-laravel
+
+--php artisan inertia:middleware
