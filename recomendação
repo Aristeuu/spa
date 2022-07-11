@@ -3,4 +3,6 @@
 
 --composer require inertiajs/inertia-laravel
 
---php artisan inertia:middleware
+--npm install @inertiajs/inertia @inertiajs/inertia-vue
+
+--npm install @inertiajs/progress
